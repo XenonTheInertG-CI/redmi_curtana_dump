@@ -1,0 +1,18 @@
+## qssi-user 11 RKQ1.200826.002 V12.5.5.0.RJWMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: atoll
+- Codename: curtana
+- Brand: Redmi
+- Flavor: qssi-user
+- Release Version: 11
+- Id: RKQ1.200826.002
+- Incremental: V12.5.5.0.RJWMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: Redmi/curtana_global/curtana:11/RKQ1.200826.002/V12.5.5.0.RJWMIXM:user/release-keys
+- OTA version: 
+- Branch: qssi-user-11-RKQ1.200826.002-V12.5.5.0.RJWMIXM-release-keys
+- Repo: redmi_curtana_dump
